@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\alejandrio.vasay\\source\\lessons\\WebAPIInMemoryDB\\WebAPIInMemoryDB.csproj": {}
+    "C:\\Users\\alejandrio.vasay\\source\\lessons\\WebAPI\\WebAPIInMemoryDB\\WebAPIInMemoryDB.csproj": {}
   },
   "projects": {
-    "C:\\Users\\alejandrio.vasay\\source\\lessons\\WebAPIInMemoryDB\\WebAPIInMemoryDB.csproj": {
+    "C:\\Users\\alejandrio.vasay\\source\\lessons\\WebAPI\\WebAPIInMemoryDB\\WebAPIInMemoryDB.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\alejandrio.vasay\\source\\lessons\\WebAPIInMemoryDB\\WebAPIInMemoryDB.csproj",
+        "projectUniqueName": "C:\\Users\\alejandrio.vasay\\source\\lessons\\WebAPI\\WebAPIInMemoryDB\\WebAPIInMemoryDB.csproj",
         "projectName": "WebAPIInMemoryDB",
-        "projectPath": "C:\\Users\\alejandrio.vasay\\source\\lessons\\WebAPIInMemoryDB\\WebAPIInMemoryDB.csproj",
+        "projectPath": "C:\\Users\\alejandrio.vasay\\source\\lessons\\WebAPI\\WebAPIInMemoryDB\\WebAPIInMemoryDB.csproj",
         "packagesPath": "C:\\Users\\alejandrio.vasay\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\alejandrio.vasay\\source\\lessons\\WebAPIInMemoryDB\\obj\\",
+        "outputPath": "C:\\Users\\alejandrio.vasay\\source\\lessons\\WebAPI\\WebAPIInMemoryDB\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\",
